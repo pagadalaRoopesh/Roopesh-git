@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-     <finalName>Roopesh</finalName>
+     <finalName>Rupesh</finalName>
         <plugins>
             <!-- Configure maven-compiler-plugin -->
             <plugin>
