@@ -1,0 +1,9 @@
+trigger:
+- main
+pool:
+  name: Roopesh-1820
+steps:
+- task: Maven@3
+  inputs:
+    mavenPomFile: 'pom.xml'
+    goals: 'package'
